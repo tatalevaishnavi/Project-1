@@ -1,3 +1,4 @@
-# Project-1
+# Micro IIT Internship Project
+
 My First Project 
 
